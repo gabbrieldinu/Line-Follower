@@ -8,13 +8,13 @@ The project consists of creating a simple line follower using the laboratory kit
 
 Components:
 
-  -Arduino Uno
-  -QTR-8A reflectance sensor, along with screws
-  -Breadboard - medium (400pts)
-  -L293D motor driver
-  -2 DC motors 
-  -Power source ( 7.4V LiPo battery )
-  -2 Wheels ( only backside )
-  -Wires
-  -Ball caster
-  -Chassis
+  - Arduino Uno
+  - QTR-8A reflectance sensor, along with screws
+  - Breadboard - medium (400pts)
+  - L293D motor driver
+  - 2 DC motors 
+  - Power source ( 7.4V LiPo battery )
+  - 2 Wheels ( only backside )
+  - Wires
+  - Ball caster
+  - Chassis
