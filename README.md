@@ -4,6 +4,12 @@ Made by Dinu Gabriel and Neacsu VLad
 
 Coordinated by Andrei Dumitriu
 
+# Images of setup:
+
+![Alt text](https://user-images.githubusercontent.com/74376628/213796434-d18bd075-9f12-40b8-81d1-e2bbab730b76.jpg)
+
+![Alt text](https://user-images.githubusercontent.com/74376628/213796475-07977c8c-8b06-47af-b9d6-3bc93ad8bf26.jpg)
+
 # Project Explanation
 
   The project consists of creating a simple line follower using the laboratory kit. It that has to finish a track made by the proffessor and ensure that it does so in the least time possible. With the code attached, our line follower managed to finish the track in 18.2 seconds, securing the highest mark ( given only to times under 20 seconds). There is also a video attached to see it in action.
@@ -32,11 +38,7 @@ Coordinated by Andrei Dumitriu
 
 # Link to video: https://www.youtube.com/watch?v=_huuC-UTbUY
 
-# Images of setup:
 
-![Alt text](https://user-images.githubusercontent.com/74376628/213796434-d18bd075-9f12-40b8-81d1-e2bbab730b76.jpg)
-
-![Alt text](https://user-images.githubusercontent.com/74376628/213796475-07977c8c-8b06-47af-b9d6-3bc93ad8bf26.jpg)
 
 
 
